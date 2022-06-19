@@ -216,6 +216,12 @@
   font-size: 27px;
 }
 
+.experience-company.company-pink {
+  font-family: Quicksand, sans-serif;
+  color: #ffc0cb;
+  font-size: 27px;
+}
+
 .experience-position {
   padding-top: 10px;
   clear: both;
